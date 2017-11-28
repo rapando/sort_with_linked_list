@@ -1,2 +1,0 @@
-sort: main.c
-	gcc -o sort sort.c
